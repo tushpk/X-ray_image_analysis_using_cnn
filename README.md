@@ -19,7 +19,8 @@ Project-Medical Imaging/
 - Data/Raw           : 2 files consisting of 3500 Normal chest Xrays and 700 TB infected Chest xrays
 - Data/Processed     : Raw data is divided into TRAIN , VALIDATION , TEST , a 70-15-15 split for each TB and Normal Data
 - Plots              : Consists of graphical plots made using data
-- Logs               : It contains saved baseline models 
+- Logs               : It contains saved baseline models
+- Checkpoints        : baseline model saved as a .h5 file 
 - README.md          : Project documentation
 
 Model Architecture
