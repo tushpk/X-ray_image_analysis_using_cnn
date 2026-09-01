@@ -1,6 +1,5 @@
 CNN-Based Medical Image Classification (X-Ray / TB Detection)
 
-Overview
 This project uses a Convolutional Neural Network (CNN) to classify medical X-ray images for disease detection such as Tuberculosis or normal vs abnormal cases. The model is trained on chest X-ray images and learns important features for accurate classification.
 
 The goal is to build a deep learning-based system that can assist in early medical diagnosis.
